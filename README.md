@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dw-leonardo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Estudante de Engenharia de Controle e Automação
+- Universidade Federal do Rio Grande do Sul
 
-<!---
-dw-leonardo/dw-leonardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Experiência em C e Java ☕
